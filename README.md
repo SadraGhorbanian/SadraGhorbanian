@@ -1,7 +1,7 @@
 # Sadra • Cybersecurity & Full-Stack Developer
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SadraGhorbanian/SadraGhorbanian/main/assets/header_.png" width="100%">
+  <img src="https://raw.githubusercontent.com/SadraGhorbanian/SadraGhorbanian/main/eader_.jpg" width="100%">
 </div>
 
 <br>
