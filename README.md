@@ -68,11 +68,5 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SadraGhorbanian&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true" alt="top languages" height="180"/>
-  &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=SadraGhorbanian&theme=react&hide_border=true" height="180"/>
-</div>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=SadraGhorbanian&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </div>
